@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Mighty Long Fall",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-03T19:14:02.341020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Mighty_Long_Fall_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Mighty_Long_Fall_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mighty Long Fall (Japanese Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Mighty_Long_Fall_(Japanese_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mighty Long Fall (Studio Jam Session)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Mighty_Long_Fall_(Studio_Jam_Session)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Mighty_Long_Fall_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Mighty_Long_Fall_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Mighty_Long_Fall_ONE_OK_ROCK.txt"
+    }
+  ]
+}
